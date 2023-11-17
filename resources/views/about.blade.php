@@ -18,6 +18,6 @@
         </div>
     </header>
 
-    <h1 class="text-center">And this is my about page!</h1>
+    <h1 class="text-center">{{ $aboutmsg }}</h1>
 </body>
 </html>

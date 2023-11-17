@@ -18,6 +18,6 @@
         </div>
     </header>
 
-    <h1 class="text-center">Hello World! Wellcome in my Home Page!</h1>
+    <h1 class="text-center">{{ $hello }}</h1>
 </body>
 </html>
